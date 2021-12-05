@@ -37,3 +37,4 @@ Python , open cv , Canva , go daddy
 
 ACCOMPLISHMENTS
 This web extension lets the guardian to know whether their child is unattentive  or asleep during the online class.Now the guardians can come and check the student . If the guardian is informed whether that their kid is asleep  they can make a call to the student and if they are available near the student they can provide the student with refreshments . So we strongly believe that this extension will help the students to bring the students mind to full attention for the class.This also give the guardians a belief that their kid is attentive in the class.
+![WhatsApp Image 2021-12-05 at 4 03 06 PM](https://user-images.githubusercontent.com/75155661/144748031-4573e7a6-790f-4905-b80f-84e20961af94.jpeg)
