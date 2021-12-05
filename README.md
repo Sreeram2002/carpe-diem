@@ -1,4 +1,4 @@
-# carpe-diem
+# Carpe-Diem
 INSPIRATION
 
 
